@@ -1,0 +1,8 @@
+{
+  "name": "googleapis-v45",
+  "version": "1.0.0",
+  "description": "GoogleApis version 45",
+  "dependencies": {
+    "googleapis": "45.0.0"
+  }
+}
